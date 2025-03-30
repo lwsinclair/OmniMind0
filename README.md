@@ -1,8 +1,6 @@
-# OmniMind: The AGI Revolution – Unleashing the Future of Intelligence
+# OmniMind: THE WORLD'S FIRST AGI PROJECT
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()  
-[![Version](https://img.shields.io/badge/version-AGI_1.0-blue.svg)]()  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()  [![Version](https://img.shields.io/badge/version-AGI_1.0-blue.svg)]()  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
 Welcome to **OmniMind**, the world’s first AGI project that can do *anything* you need. This isn’t just another open-source repository—it’s a grand, community-powered revolution that solves real-world problems by harnessing a universal intelligence. We’re building a platform where every developer, researcher, and curious mind can contribute, iterate, and build a truly adaptive AGI that continuously learns and evolves.
 
@@ -181,7 +179,7 @@ omnimind/
 ### Step-by-Step Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your_username/omnimind.git
+   git clone https://github.com/Techiral/omnimind.git
    cd omnimind
    ```
 2. **Install Dependencies:**
@@ -251,7 +249,7 @@ Every contribution, from code to documentation, helps build a stronger, more cap
 ## Credits & Acknowledgments
 
 We extend our deepest gratitude to:
-- [Your Name](https://github.com/your_username)
+- [Your Name](https://github.com/Techiral)
 - [Contributor1](https://github.com/contributor1)
 - [Contributor2](https://github.com/contributor2)
 - The entire open-source community for inspiring and contributing to our vision.
