@@ -12,7 +12,7 @@ Welcome to **OmniMind**, the world’s first AGI project that can do *anything* 
 - [Overview](#overview)
 - [Why Invest Your Time](#why-invest-your-time)
 - [Unique Problem Solving & Use Cases](#unique-problem-solving--use-cases)
-- [How OmniMind Works](#how-omnimind-works)
+- [How OmniMind Works](#how-OmniMind-works)
 - [Backend Architecture & File Structure](#backend-architecture--file-structure)
 - [Modules & System Architecture](#modules--system-architecture)
   - [AGI Core Engine](#agi-core-engine)
@@ -86,7 +86,7 @@ This is just one example of how OmniMind translates natural language commands in
 
 ### Visual Overview
 
-![OmniMind System Architecture](./assets/omnimind-architecture.png)
+![OmniMind System Architecture](./assets/OmniMind-architecture.png)
 
 *Figure: OmniMind processes a natural language command into a series of automated actions, from command parsing to real-time execution.*
 
@@ -97,7 +97,7 @@ This is just one example of how OmniMind translates natural language commands in
 The backend of OmniMind is designed for scalability and maintainability, built primarily with Node.js/Express and Python for AI-specific tasks. Here’s a glimpse of the structure:
 
 ```
-omnimind/
+OmniMind/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -179,8 +179,8 @@ omnimind/
 ### Step-by-Step Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Techiral/omnimind.git
-   cd omnimind
+   git clone https://github.com/Techiral/OmniMind.git
+   cd OmniMind
    ```
 2. **Install Dependencies:**
    ```bash
@@ -216,7 +216,7 @@ omnimind/
 
 *Example Command:*
 ```bash
-omnimind --task "Generate an advanced analytics dashboard for my e-commerce store with real-time data and predictive insights"
+OmniMind --task "Generate an advanced analytics dashboard for my e-commerce store with real-time data and predictive insights"
 ```
 
 ---
