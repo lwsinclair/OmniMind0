@@ -254,6 +254,8 @@ We extend our deepest gratitude to:
 
 Special thanks to the teams behind MCP servers, LangChain, LangFlow, and all the API providers that make OmniMind possible.
 
+---
+
 ## Star History
 
 <a href="https://www.star-history.com/#Techiral/OmniMind&Date">
