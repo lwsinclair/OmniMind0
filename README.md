@@ -249,12 +249,20 @@ Every contribution, from code to documentation, helps build a stronger, more cap
 ## Credits & Acknowledgments
 
 We extend our deepest gratitude to:
-- [Your Name](https://github.com/Techiral)
-- [Contributor1](https://github.com/contributor1)
-- [Contributor2](https://github.com/contributor2)
+- [Techiral](https://github.com/Techiral)
 - The entire open-source community for inspiring and contributing to our vision.
 
 Special thanks to the teams behind MCP servers, LangChain, LangFlow, and all the API providers that make OmniMind possible.
+
+## Star History
+
+<a href="https://www.star-history.com/#Techiral/OmniMind&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Techiral/OmniMind&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Techiral/OmniMind&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Techiral/OmniMind&type=Date" />
+ </picture>
+</a>
 
 ---
 
