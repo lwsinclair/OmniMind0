@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/techiral-omnimind0-badge.png)](https://mseep.ai/app/techiral-omnimind0)
+
 # OmniMind: THE WORLD'S FIRST AGI PROJECT
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]()  [![Version](https://img.shields.io/badge/version-AGI_1.0-blue.svg)]()  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
